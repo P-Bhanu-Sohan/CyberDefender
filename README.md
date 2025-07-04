@@ -1,2 +1,2 @@
 # CyberDefender
-LSTM Modelling for anomaly detection
+ML/DL for anomaly detection
